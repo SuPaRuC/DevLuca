@@ -13,9 +13,11 @@
                 My <span class="text-violet-400">favourite tech</span> includes <b class="font-bold">Java</b>, <b class="font-bold">C/C++</b> and <b class="font-bold">Linux</b>! <br>
                 Other technologies I have <span class="text-violet-400">interest</span> into 
                 <i class="fa-brands fa-python"></i>
-                <i class="fa-brands fa-js"></i>
                 <i class="fa-brands fa-php"></i>
                 <i class="fa-brands fa-laravel"></i>
+                <i class="fa-brands fa-html5"></i>
+                <i class="fa-brands fa-css3"></i>
+                <i class="fa-brands fa-js"></i>
                 <i class="fa-brands fa-git-alt"></i>
             </p>
             <!-- svelte-ignore a11y-invalid-attribute -->
