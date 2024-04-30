@@ -10,7 +10,13 @@
                 Software <span class="poppins text-violet-400">Developer</span>
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
-                My <span class="text-violet-400">favourite tech</span> includes Java, C++ and Linux!
+                My <span class="text-violet-400">favourite tech</span> includes <b class="font-bold">Java</b>, <b class="font-bold">C/C++</b> and <b class="font-bold">Linux</b>! <br>
+                Other technologies I have <span class="text-violet-400">interest</span> into 
+                <i class="fa-brands fa-python"></i>
+                <i class="fa-brands fa-js"></i>
+                <i class="fa-brands fa-php"></i>
+                <i class="fa-brands fa-laravel"></i>
+                <i class="fa-brands fa-git-alt"></i>
             </p>
             <!-- svelte-ignore a11y-invalid-attribute -->
             <a href="#" target="_blank" class="blueShadow mx-auto lg:mr-auto text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">
