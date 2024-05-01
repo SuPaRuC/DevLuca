@@ -11,7 +11,9 @@
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400">favourite tech</span> includes <b class="font-bold">Java</b>, <b class="font-bold">C/C++</b> and <b class="font-bold">Linux</b>! <br>
-                Other technologies I have <span class="text-violet-400">interest</span> into 
+                Other technologies I have <span class="text-violet-400">interest</span> into:
+            </p>
+            <p class="text-4xl sm:text-5xl md:text-6xl">
                 <i class="fa-brands fa-python"></i>
                 <i class="fa-brands fa-php"></i>
                 <i class="fa-brands fa-laravel"></i>
