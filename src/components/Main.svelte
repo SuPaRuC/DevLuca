@@ -8,7 +8,7 @@
 
     let benefits = [
         {name: 'a world and technologies explorer', description: 'Just as I have always had curiosity and aspiration to explore the world, so I also have a great desire to understand and learn how (new or unknown) technologies existing works. Curiosity, as Einstein used to say, has a purpose. One can only be amazed when the mysteries of eternity, of life and of the wonderful structure of reality are contemplated. It is enough if one tries to understand only a little of this mystery every day. That’s why I believe that at any age, anywhere and anytime, you can always learn something useful, that you will always carry in the baggage of your personal experience.'},
-        {name: 'an hard worker and a perfectionist', description: 'description'},
+        {name: 'an hard worker and a perfectionist', description: 'In everything I’ve done so far, from my school education through university and my work experience, I’ve always tried to give 100% of myself. I’m of the opinion that if you want to do something you always have two options: do it right or not do it at all. We are not perfect, it is true, we are human beings, sometimes we can get lost, but the important thing is to always seek a solution to the different problems that can occur by facing them and not bypassing them.'},
         {name: 'a great teammate and motivator', description: 'description'},
     ];
 </script>
