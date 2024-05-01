@@ -44,7 +44,6 @@
         </div>
     </section>
 
-    <!-- TODO Finish description of projects -->
     <section id="projects" class="py-20 lg:py32 flex flex-col gap-24">
         <div class="flex flex-col gap-2 text-center">
             <h6 class="text-lg sm:text-xl md:text-2xl">
@@ -57,11 +56,19 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-10">
             <Step step={steps[0]}>
                 <p>
-                    This project focus on <strong class="text-violet-400">C++</strong>
+                    This is my thesis project in which I was able to develop <strong class="text-violet-400">intermediate skills in vehicular edge computing</strong>. 
+                    The project focuses on the design of a robust and reliable task offloading protocol and its implementation in <strong class="text-violet-400">C++</strong> using the <strong class="text-violet-400">OMNeT++</strong> simulator. 
+                    Once the implementation was finished, its performance was <strong class="text-violet-400">analyzed</strong> using graphical <strong class="text-violet-400">python data analysis tools</strong>. 
                 </p>
             </Step>
 
             <Step step={steps[1]}>
+                <p class="mt-10">
+                    In this university project I was able to develop different skills in <strong class="text-violet-400">web development</strong>. 
+                    The site is very simple, but I was able to experiment with different technologies such as <strong class="text-violet-400">JavaScript</strong>, <strong class="text-violet-400">HTML5</strong>, <strong class="text-violet-400">CSS3</strong> and <strong class="text-violet-400">AJAX</strong> for front-end development, while <strong class="text-violet-400">NodeJS</strong> for back-end development. 
+                    I was also able to develop the ability to create <strong class="text-violet-400">REST APIs</strong>. 
+                    Finally, <strong class="text-violet-400">MongoDB</strong> was used, a non-relational database for saving the weather preferences of each individual user.
+                </p>
             </Step>
         </div>
     </section>
