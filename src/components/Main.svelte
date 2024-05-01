@@ -33,9 +33,7 @@
                 <i class="fa-brands fa-js"></i>
                 <i class="fa-brands fa-git-alt"></i>
             </p>
-            <!-- svelte-ignore a11y-invalid-attribute -->
-            <!-- TODO insert link to contacts -->
-            <a href="#" target="_blank" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">
+            <a href="#contacts" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">
                 <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"/>
                 <h4 class="relative z-9">Get in touch <i class="fa-solid fa-arrow-right ml-1 text-base"></i></h4>
             </a>
@@ -112,7 +110,7 @@
                 <div class="flex-1 flex justify-between gap-4 items-center">
                     <div class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:h-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden">
                         <p class="relative z-4">
-                            Go to <i class="fa-solid fa-arrow-right ml-1 text-base"></i>
+                            Download <i class="fa-solid fa-arrow-right ml-1 text-base"></i>
                         </p>
                     </div>
                 </div>
@@ -129,7 +127,7 @@
                 <div class="flex-1 flex justify-between gap-4 items-center">
                     <div class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:h-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden">
                         <p class="relative z-4">
-                            Go to <i class="fa-solid fa-arrow-right ml-1 text-base"></i>
+                            Download <i class="fa-solid fa-arrow-right ml-1 text-base"></i>
                         </p>
                     </div>
                 </div>
