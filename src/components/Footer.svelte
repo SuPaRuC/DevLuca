@@ -3,9 +3,12 @@
         Connect with me &darr;
     </p>
     <div class="flex flex-col gap-4 items-center justify-center">
-        <p><b class="pr-2">Email:</b> luca.parenti.work@gmail.com</p>
+        <p><b class="pr-2">Email:</b> <a href="mailto:luca.parenti.work@gmail.com" class="text-violet-400">
+            luca.parenti.work@gmail.com <sup><span class="text-xs scale-75 pl-0.5">
+                <i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"></i>
+            </span></sup>
+        </a></p>
         <p><b class="pr-2">GitHub:</b>
-            <!-- TODO add links to social media -->
             <a href="https://github.com/SuPaRuC" class="text-violet-400" target="_blank">
                 SuPaRuC <sup><span class="text-xs scale-75 pl-0.5">
                     <i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"></i>
@@ -13,8 +16,7 @@
             </a>
         </p>
         <p><b class="pr-2">LinkedIn:</b>
-            <!-- TODO add links to social media -->
-            <a href="#" class="text-violet-400" target="_blank">
+            <a href="https://www.linkedin.com/in/luca-parenti-559457161/" class="text-violet-400" target="_blank">
                 Luca Parenti <sup><span class="text-xs scale-75 pl-0.5">
                     <i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"></i>
                 </span></sup>
