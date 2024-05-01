@@ -7,8 +7,8 @@
     ];
 
     let benefits = [
-        {name: 'a world and technologies explorer', description: 'description'},
-        {name: 'an hard worker and details fanatic', description: 'description'},
+        {name: 'a world and technologies explorer', description: 'Just as I have always had curiosity and aspiration to explore the world, so I also have a great desire to understand and learn how (new or unknown) technologies existing works. Curiosity, as Einstein used to say, has a purpose. One can only be amazed when the mysteries of eternity, of life and of the wonderful structure of reality are contemplated. It is enough if one tries to understand only a little of this mystery every day. That’s why I believe that at any age, anywhere and anytime, you can always learn something useful, that you will always carry in the baggage of your personal experience.'},
+        {name: 'an hard worker and a perfectionist', description: 'description'},
         {name: 'a great teammate and motivator', description: 'description'},
     ];
 </script>
