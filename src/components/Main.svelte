@@ -101,6 +101,16 @@
                     </div>
                 </div>
             {/each}
+            <div class="flex gap-6 sm:gap-8">
+                <p class="poppins text-4xl sm:text-5xl md:text-6xl text-slate-500 font-semibold">
+                    0..
+                </p>
+                <div class="flex flex-col gap-6 sm:gap-8">
+                    <h3 class="text-2xl sm:text-3xl md:text-5xl">
+                        a million other things 
+                    </h3>
+                </div>
+            </div>
         </div>
         <h5 class="text-2xl sm:text-3xl font-semibold text-center poppins">
             The <span class="text-violet-400 poppins">complete</span> package.
