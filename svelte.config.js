@@ -10,7 +10,7 @@ export default {
 			strict: true,
 		}),
 		paths: {
-			base: "/DevLuca"
+			base: process.env.NODE_ENV === 'production' ? '/DevLuca' : '',
 		}
 	}
 };
