@@ -2,7 +2,7 @@
     import Step from "../components/Step.svelte";
 
     let steps = [
-        {name: 'Performance evaluation of a microcloud service of task oﬄoading in vehicular edge computing', icon: 'fa-solid fa-wifi', href: 'assets/task_offloading.zip'},
+        {name: 'Performance evaluation of a microcloud service of task oﬄoading in vehicular edge computing', icon: 'fa-solid fa-wifi', href: 'assets/progetto_tesi_luca_parenti.pdf'},
         {name: 'MeteoCity', icon: 'fa-solid fa-cloud', href: 'https://github.com/SuPaRuC/MeteoCity'}
     ];
 
