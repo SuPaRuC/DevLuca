@@ -116,7 +116,7 @@
             The <span class="text-violet-400 poppins">complete</span> package.
         </h5>
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-10">
-            <a href="assets/cv_parenti_luca_it.pdf" target="_blank" class="p-4 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-violet-700 text-center group cursor-pointer hover:border-violet-400 duration-200">
+            <a href="assets/CV_Luca_Parenti_IT.pdf" target="_blank" class="p-4 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-violet-700 text-center group cursor-pointer hover:border-violet-400 duration-200">
                 <div class="bg-slate-950 grid place-items-center px-4 text-5xl md:text-6xl -mt-10 sm:-mt-12 md:-mt-14 lg:-mt-16 mx-auto duration-200">
                     <i class="fa-solid fa-i"></i>
                 </div>
@@ -133,7 +133,7 @@
                 </div>
             </a>
 
-            <a href="assets/cv_parenti_luca_en.pdf" target="_blank" class="p-4 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-violet-700 text-center group cursor-pointer hover:border-violet-400 duration-200">
+            <a href="assets/CV_Luca_Parenti_EN.pdf" target="_blank" class="p-4 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-violet-700 text-center group cursor-pointer hover:border-violet-400 duration-200">
                 <div class="bg-slate-950 grid place-items-center px-4 text-5xl md:text-6xl -mt-10 sm:-mt-12 md:-mt-14 lg:-mt-16 mx-auto duration-200">
                     <i class="fa-solid fa-e"></i>
                 </div>
