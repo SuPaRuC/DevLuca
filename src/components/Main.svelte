@@ -1,5 +1,12 @@
 <script>
     import Step from "../components/Step.svelte";
+    /**
+     * @typedef {Object} Props
+     * @property {import('svelte').Snippet} [children]
+     */
+
+    /** @type {Props} */
+    let { children } = $props();
 
     let steps = [
         {name: 'Performance evaluation of a microcloud service of task oﬄoading in vehicular edge computing', icon: 'fa-solid fa-wifi', href: 'assets/progetto_tesi_luca_parenti.pdf'},
@@ -34,12 +41,12 @@
                 <i class="fa-brands fa-git-alt"></i>
             </p>
             <a href="#contacts" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">
-                <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"/>
+                <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"></div>
                 <h4 class="relative z-9">Get in touch <i class="fa-solid fa-arrow-right ml-1 text-base"></i></h4>
             </a>
         </div>
         <div class="relative shadow-2xl grid place-items-center">
-            <!-- svelte-ignore a11y-img-redundant-alt -->
+            <!-- svelte-ignore a11y_img_redundant_alt -->
             <img src={"images/profile.png"} alt="Profile image" class="object-cover z-[2] max-h-[70vh]">
         </div>
     </section>
@@ -123,7 +130,7 @@
                 <h3 class="font-medium text-xl sm:text-2xl md:text-3xl">
                     Curriculum Vitae - Italian version
                 </h3>
-                <slot/>
+                {@render children?.()}
                 <div class="flex-1 flex justify-between gap-4 items-center">
                     <div class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:h-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden">
                         <p class="relative z-4">
@@ -140,7 +147,7 @@
                 <h3 class="font-medium text-xl sm:text-2xl md:text-3xl">
                     Curriculum Vitae - English version
                 </h3>
-                <slot/>
+                {@render children?.()}
                 <div class="flex-1 flex justify-between gap-4 items-center">
                     <div class="ml-auto cursor-pointer hover:text-slate-950 duration-200 relative after:absolute after:top-0 after:h-0 after:right-full after:w-full after:h-full after:bg-white after:duration-200 hover:after:translate-x-full after:z-[-1] overflow-hidden">
                         <p class="relative z-4">
