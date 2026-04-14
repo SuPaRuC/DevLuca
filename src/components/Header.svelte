@@ -1,5 +1,5 @@
 <script>
-    export let y;
+    let { y } = $props();
 
     let tabs = [
         {name: 'Projects', link: '#projects'},
@@ -24,8 +24,8 @@
                 <p>{tab.name}</p>
             </a>
         {/each}
-        <button class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full bg-white text-slate-950" on:click="{goBottom}">
-            <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"/>
+        <button class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full bg-white text-slate-950" onclick={goBottom}>
+            <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"></div>
             <h4 class="relative z-9">Get in touch</h4>
         </button>
     </div>
